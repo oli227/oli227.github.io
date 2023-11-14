@@ -1,0 +1,78 @@
+﻿<html>
+<head>
+<TITLE>computadoras</TITLE>
+<link rel="stylesheet" type="text/css" href="css/estilo.css" />
+</head>
+<body <div style="background-image:url('fondopc.jpg')" style="background-repeat: no-repeat" style="background-size= cover"></div> >
+ <TABLE   BORDER='1'ALIGN='CENTER' WIDTH='1900' HEIGHT='500' CELLSPACING='0' CELLSPADDING='0'  <div style="background-image:url('estrellas.jpg')" style="background-repeat: no-repeat" style="background-size= cover"></div>>
+<TR>
+<TD ALIGN='CENTER'colspan="4">
+
+<IMG SRC='titulocomputadoras.png' WIDTH='1700' HEIGHT='300'>																																																																												
+
+</TD>
+</TR>
+
+<TR>
+
+ <TD WIDTH='400' HEIGHT='400'ALIGN='ABSBOTTON' ><IMG SRC='fnaf2.gif' WIDTH='100' HEIGHT='100' > 
+<div>
+<a href="pastel.html"><button >
+
+<span >PAG PRINCIPAL</span>
+</button></a>
+<button>
+
+<span>CONFIGURACION</span>
+</button>
+<button>
+<span>PAG SIGUIENTE</span>
+
+
+
+
+</button>
+<button>
+<span>PAG ANTERIOR </span>
+
+
+
+</button>
+
+</div>
+
+
+
+
+
+</TD>
+<TD ALIGN='CENTER'>
+<a href="celulares.html" ><IMG SRC='celulares.png' WIDTH='400' HEIGHT='100' > </a>
+</TD>
+<TD ALIGN='CENTER'>
+<a href="pagcomputadoras.html" ><IMG SRC='computadoras.png' WIDTH='400' HEIGHT='100' > </a>
+</TD>
+<TD ALIGN='CENTER'>
+<a href="impresoras.html" ><IMG SRC='impresoras.png' WIDTH='400' HEIGHT='100' > </a>
+</TD>
+    
+</TR>
+<TR>
+
+</TABLE> 
+<TABLE   BORDER='0'ALIGN='CENTER' WIDTH='1900' HEIGHT='500' CELLSPACING='0' CELLSPADDING='0' <div style="background-image:url('fondotabla3.jpg')" style="background-repeat: no-repeat" style="background-size= cover"></div> >
+<TR>
+<TD colspan="3" ALIGN='CENTER'><H1 style="color:#FFD7FD">ELIGE EL LA MEJOR OPCION </H1> </TD>
+
+</TR>
+<TR>
+<TD ALIGN='CENTER'><IMG SRC='reparacionpc.jpg' WIDTH='400' HEIGHT='400' >  <h1 style="color:#F1F781">REPARACION DE COMPUTADORAS </h1></TD>
+<TD ALIGN='CENTER'><IMG SRC='ventapc.jpg' WIDTH='400' HEIGHT='400' ><h1 style="color:#8D1088">VENTA DE COMPUTADORAS </h1> </TD>
+<TD ALIGN='CENTER'><IMG SRC='mantenimientopc.jpg' WIDTH='400' HEIGHT='400' > <h1 style="color:#A2F0FF">MANTENIMIENTO DE COMPUTADORAS </h1></TD>
+</TR>
+</table>
+
+
+</body>
+</html>
+
